@@ -27,4 +27,5 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 ここを参考にした。
 https://community.c9.io/t/creating-a-scala-app/1605
+
 http://qiita.com/vvakame/items/83366fbfa47562fafbf4
