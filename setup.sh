@@ -5,10 +5,11 @@ wget https://services.gradle.org/distributions/gradle-2.14-all.zip
 unzip gradle-2.14-all.zip
 mv gradle-2.14 ../
 
-SCALA_HOME="$HOME/scala-2.11.5"
-GRADLE_HOME="$HOME/gradle-2.14"
-PATH="$PATH:$SCALA_HOME/bin:$GRADLE_HOME/bin"
+export SCALA_HOME="$HOME/scala-2.11.5"
+export GRADLE_HOME="$HOME/gradle-2.14"
+export PATH="$PATH:$SCALA_HOME/bin:$GRADLE_HOME/bin"
 
 gradle init --type scala-library
 mv hello-world.scala src/main/scala/
 mv build.gradle.tmp build.gradle
+gradle run
