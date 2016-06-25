@@ -30,4 +30,9 @@ https://community.c9.io/t/creating-a-scala-app/1605
 
 http://qiita.com/vvakame/items/83366fbfa47562fafbf4
 
-https://scala6-tokamoto6676.c9users.io/
+http://sgykfjsm.github.io/blog/2013/02/26/scalatra-tutorial-002/
+
+http://etc9.hatenablog.com/entry/2015/06/07/015756
+
+URL
+https://scala7-tokamoto6676.c9users.io/

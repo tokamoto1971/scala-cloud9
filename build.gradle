@@ -10,6 +10,7 @@
 // Apply the scala plugin to add support for Scala
 apply plugin: 'scala'
 apply plugin: 'application'
+apply plugin: 'war'
 
 // In this section you declare where to find the dependencies of your project
 repositories {
@@ -23,12 +24,10 @@ dependencies {
     // We use Scala 2.11 in our library project
     compile 'org.scala-lang:scala-library:2.11.8'
     compile 'org.scala-lang:scala-xml:2.11.0-M4'
+    compile 'org.scalatra:scalatra-scalate_2.11:2.4.1'
     compile group: 'org.scalatra', name: 'scalatra_2.11', version: '2.4.1'
-//    compile 'org.scalatra:scalatra_2.11:2.4.0.RC1'
-    // https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-webapp
-    compile group: 'org.eclipse.jetty', name: 'jetty-webapp', version: '9.2.17.v20160517'
+    compile group: 'org.eclipse.jetty', name: 'jetty-webapp', version: '9.2.17.v20160517'   //  9.3以降はJava8が必要
 
-//    compile 'org.eclipse.jetty:jetty-webapp:9.3.0.RC1'
 
     // We use Scalatest for testing our library
     testCompile 'junit:junit:4.12'
@@ -36,5 +35,8 @@ dependencies {
     testRuntime 'org.scala-lang.modules:scala-xml_2.11:1.0.5'
 
 }
-
+//war {
+//    exclude 'WEB-INF/lib/**'
+//    exclude 'WEB-INF/classes/**'
+//}
 mainClassName = 'JettyLauncher'

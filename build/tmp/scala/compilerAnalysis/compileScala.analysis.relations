@@ -1,0 +1,50 @@
+products:
+   src/main/scala/HelloServlet.scala -> build/classes/main/HelloServlet$$anonfun$1.class
+   src/main/scala/HelloServlet.scala -> build/classes/main/HelloServlet$$anonfun$2.class
+   src/main/scala/HelloServlet.scala -> build/classes/main/HelloServlet$$anonfun$3.class
+   src/main/scala/HelloServlet.scala -> build/classes/main/HelloServlet.class
+   src/main/scala/JettyLauncher.scala -> build/classes/main/JettyLauncher$.class
+   src/main/scala/JettyLauncher.scala -> build/classes/main/JettyLauncher.class
+   src/main/scala/Library.scala -> build/classes/main/Library.class
+   src/main/scala/MyFirstScalatraServlet.scala -> build/classes/main/MyFirstScalatraServlet$$anonfun$1.class
+   src/main/scala/MyFirstScalatraServlet.scala -> build/classes/main/MyFirstScalatraServlet.class
+   src/main/scala/ScalatraBootstrap.scala -> build/classes/main/ScalatraBootstrap.class
+binary dependencies:
+   src/main/scala/HelloServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar
+   src/main/scala/HelloServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/main/scala/HelloServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-xml/2.11.0-M4/4ec2850badf3264be8a3048882f9b963ecc605b8/scala-xml-2.11.0-M4.jar
+   src/main/scala/HelloServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scalatra/scalatra_2.11/2.4.1/d0eb9ffe86e73cd12f016cc198b833e0a5d8e3cb/scalatra_2.11-2.4.1.jar
+   src/main/scala/HelloServlet.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+   src/main/scala/JettyLauncher.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.2.17.v20160517/a0e950001f0f0dbc825f8698297bde1ce1401209/jetty-server-9.2.17.v20160517.jar
+   src/main/scala/JettyLauncher.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.2.17.v20160517/4aa5c611bf32e7feeae1fb67ef068eb2c2d87d35/jetty-servlet-9.2.17.v20160517.jar
+   src/main/scala/JettyLauncher.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.2.17.v20160517/ffd0d9e535456e38a735b79690a17127dbbf72d7/jetty-util-9.2.17.v20160517.jar
+   src/main/scala/JettyLauncher.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.17.v20160517/a23c5cd581d4209f76279b1180879be32270659b/jetty-webapp-9.2.17.v20160517.jar
+   src/main/scala/JettyLauncher.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/main/scala/JettyLauncher.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scalatra/scalatra_2.11/2.4.1/d0eb9ffe86e73cd12f016cc198b833e0a5d8e3cb/scalatra_2.11-2.4.1.jar
+   src/main/scala/JettyLauncher.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+   src/main/scala/Library.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/main/scala/Library.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+   src/main/scala/MyFirstScalatraServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar
+   src/main/scala/MyFirstScalatraServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/main/scala/MyFirstScalatraServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scalatra/scalatra-scalate_2.11/2.4.1/b34b92976247166dfdcd1b88a9c5bc7f7c17d7f/scalatra-scalate_2.11-2.4.1.jar
+   src/main/scala/MyFirstScalatraServlet.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scalatra/scalatra_2.11/2.4.1/d0eb9ffe86e73cd12f016cc198b833e0a5d8e3cb/scalatra_2.11-2.4.1.jar
+   src/main/scala/MyFirstScalatraServlet.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+   src/main/scala/ScalatraBootstrap.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar
+   src/main/scala/ScalatraBootstrap.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/main/scala/ScalatraBootstrap.scala -> /home/ubuntu/.gradle/caches/modules-2/files-2.1/org.scalatra/scalatra_2.11/2.4.1/d0eb9ffe86e73cd12f016cc198b833e0a5d8e3cb/scalatra_2.11-2.4.1.jar
+   src/main/scala/ScalatraBootstrap.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+source dependencies:
+   src/main/scala/ScalatraBootstrap.scala -> src/main/scala/HelloServlet.scala
+   src/main/scala/ScalatraBootstrap.scala -> src/main/scala/MyFirstScalatraServlet.scala
+external dependencies:
+class names:
+   src/main/scala/HelloServlet.scala -> HelloServlet
+   src/main/scala/HelloServlet.scala -> HelloServlet$$anonfun$1
+   src/main/scala/HelloServlet.scala -> HelloServlet$$anonfun$2
+   src/main/scala/HelloServlet.scala -> HelloServlet$$anonfun$3
+   src/main/scala/JettyLauncher.scala -> JettyLauncher
+   src/main/scala/JettyLauncher.scala -> JettyLauncher$
+   src/main/scala/Library.scala -> Library
+   src/main/scala/MyFirstScalatraServlet.scala -> MyFirstScalatraServlet
+   src/main/scala/MyFirstScalatraServlet.scala -> MyFirstScalatraServlet$$anonfun$1
+   src/main/scala/ScalatraBootstrap.scala -> ScalatraBootstrap
