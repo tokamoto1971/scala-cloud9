@@ -36,3 +36,6 @@ http://etc9.hatenablog.com/entry/2015/06/07/015756
 
 URL
 https://scala7-tokamoto6676.c9users.io/
+
+Java8
+https://gist.github.com/subchen/9f91c6ca7c0c40c5cc53
